@@ -1,7 +1,9 @@
 # go-webserver
 
 commands to run
+
 go build main.go
+
 go run main.go
 
 Open any browser and type
